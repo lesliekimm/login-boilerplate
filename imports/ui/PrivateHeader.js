@@ -1,3 +1,5 @@
+import 'babel-polyfill';
+import PropTypes from 'prop-types';
 import React from 'react';
 import { Accounts } from 'meteor/accounts-base';
 
